@@ -1,8 +1,16 @@
 # Solução - Mega Hack 3.0
 
-Meu time e eu escolhemos o desafio da <a href = "https://www2.arvoredelivros.com.br/biblioteca"> Árvore Educação.</a> inserido no <a href = "https://www.megahack.com.br/"> Mega Hack </a>.
+Meu time e eu escolhemos o desafio da <a href = "https://www2.arvoredelivros.com.br/biblioteca"> Árvore Educação </a> inserido no <a href = "https://www.megahack.com.br/"> Mega Hack </a>.
 
 Nossa solução consiste em uma aplicação web que permite o usuário ler ou ouvir livros pelo aplicativo Whatsapp.
+
+* Página inicial.
+
+![alt text](https://github.com/LissandraRodrigues/projeto_liv_mega_hack/blob/master/pagina_inicial.png?raw=true)
+
+* Página do Livro Dom Casmurro de Machado de Assis.
+
+![alt text](https://github.com/LissandraRodrigues/projeto_liv_mega_hack/blob/master/pagina_dom_casmurro.png?raw=true)
 
 # Descrição
 
@@ -32,11 +40,11 @@ O usuário entra no site, escolhe o livro que quer ler, opta por áudio ou mensa
 
 # Instalação
 
-É preciso ter o Python instalado no seu computador (<a href = "https://www.python.org/downloads/"> Python </a>, recomendado baixar a última versão). Para importar algumas funções usadas nesse projeto é preciso fazer a instalação de uma biblioteca:
+É preciso ter o Python instalado no seu computador (<a href = "https://www.python.org/downloads/">Python </a>, recomendado baixar a última versão). Para importar algumas funções usadas nesse projeto é preciso fazer a instalação de uma biblioteca:
 
 * selenium - Forma de instalação: <b>pip install selenium</b>
 
-<b>Obs 01.:</b> É também necessário o uso do ChromeDriver 83.0.4103.39 que pode ser baixado <a href = "https://chromedriver.chromium.org/downloads"> nesta página </a>. Ele deve ser inserido na mesma pasta do projeto.
+<b>Obs 01.:</b> É também necessário o uso do ChromeDriver 83.0.4103.39 que pode ser baixado <a href = "https://chromedriver.chromium.org/downloads"> nesta página </a>. Ele deve ser inserido na mesma pasta do projeto, entretanto ele já está inserido neste repositório.
 
 # Uso 
 
@@ -52,7 +60,7 @@ Após as instalações, para começar usar é preciso clonar esse repositório e
 
 * Para receber o livro como audiobook:
 
-    * Para o programa funcionar é necessário que previamente um grupo no Whatsapp seja criado com exatamente o nome "Dom Casmurro - Machado A." e neste grupo deve ser colocado o MP3 que pode ser encontrado <a href = "LINK" > aqui </a> 
+    * Para o programa funcionar é necessário que previamente um grupo no Whatsapp seja criado com exatamente o nome "Dom Casmurro - Machado A." e neste grupo deve ser colocado o MP3 que pode ser encontrado <a href = "https://github.com/LissandraRodrigues/projeto_liv_mega_hack/blob/master/Dom_Casmurro_parte_1.mp3" > aqui </a> 
 
     * python enviaAudio.py -n <Nome do usuário que você enviará o livro (tem que ser exatamente igual ao que está no WhatsApp)>
     
