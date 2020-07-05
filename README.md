@@ -60,7 +60,7 @@ Após as instalações, para começar usar é preciso clonar esse repositório e
 
 * Para receber o livro como audiobook:
 
-    * Para o programa funcionar é necessário que previamente um grupo no Whatsapp seja criado com exatamente o nome "Dom Casmurro - Machado A." e neste grupo deve ser colocado o MP3 que pode ser encontrado <a href = "https://github.com/LissandraRodrigues/projeto_liv_mega_hack/blob/master/Dom_Casmurro_parte_1.mp3" > aqui </a> 
+    * Para o programa funcionar é necessário que previamente um grupo no Whatsapp seja criado com exatamente o nome "Dom Casmurro - Machado A." e neste grupo deve ser colocado o MP3 que pode ser encontrado <a href = "https://github.com/LissandraRodrigues/projeto_liv_mega_hack/blob/master/Dom_Casmurro_parte_1.mp3" > aqui. </a> 
 
     * python enviaAudio.py -n <Nome do usuário que você enviará o livro (tem que ser exatamente igual ao que está no WhatsApp)>
     
