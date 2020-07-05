@@ -74,7 +74,7 @@ Após as instalações, para começar usar é preciso clonar esse repositório e
 
 * <a href = "https://www.linkedin.com/in/iurilopesalmeida/"> Iuri Almeida </a> - Graduando de Engenharia Agrícola e Ambiental na UFF.
 
-* <a href = "www.linkedin.com/in/romulo-rizo-cabral"> Rômulo Cabral </a> - Graduando de Engenharia de Computação na UERJ.
+* <a href = "https://www.linkedin.com/in/romulo-rizo-cabral/"> Rômulo Cabral </a> - Graduando de Engenharia de Computação na UERJ.
 
 * <a href = "https://www.linkedin.com/in/luiz-cruz-bb2746162/"> Luiz Felipe </a> - Graduando de Engenharia de Automação e Controle na UFRJ.
 
