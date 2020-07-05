@@ -1,4 +1,4 @@
-# Solução - Mega Hack 3.0
+# Liv - Mega Hack 3.0
 
 Meu time e eu escolhemos o desafio da <a href = "https://arvoreeducacao.com.br/"> Árvore Educação </a> inserido no <a href = "https://www.megahack.com.br/"> Mega Hack </a>.
 
